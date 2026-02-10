@@ -1,3 +1,13 @@
 *{
-    font-family: monolisa;
+    font-family: cursive;
+}
+
+body{
+    background-image: url(kepek/island-bg.png);
+    background-size: cover;
+}
+
+main{
+    background-color: aliceblue;
+    opacity: 80%;
 }
