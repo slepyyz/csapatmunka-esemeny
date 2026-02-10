@@ -8,4 +8,12 @@ Szontagh Ágoston: index.html oldal elkészítése (index.html, formazasok.css, 
 
 # Index.html
 
+Elrendezés:
+
+- Header
+- Nav
+- Article
+- Aside
+- Footer
+
 ![alt text](kepek/indexelrendezes.png)
