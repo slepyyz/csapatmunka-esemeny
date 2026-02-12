@@ -1,0 +1,12 @@
+body{
+    background-image: url(kepek/thereisnothing-scaled.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+
+nav{
+    width: 20%;
+    height: 20px;
+    text-align: center;
+}
