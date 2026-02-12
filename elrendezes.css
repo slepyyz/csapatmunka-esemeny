@@ -7,8 +7,7 @@
 main{
     width: 80%;
     margin: auto;
-}
-
-header{
-
+    padding: 5px;
+    border-radius: 5px;
+    margin-top: 10px;
 }
