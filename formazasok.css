@@ -4,10 +4,13 @@
 
 body{
     background-image: url(kepek/island-bg.png);
-    background-size: cover;
+    background-size: fill;
+    background-repeat: no-repeat;
+    background-position: 50% 20%;
+    background-attachment: scroll;
 }
 
 main{
-    background-color: aliceblue;
-    opacity: 80%;
+    background-color: rgba(240, 248, 255, 0.7);
 }
+
