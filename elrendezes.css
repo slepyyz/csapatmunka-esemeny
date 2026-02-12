@@ -11,3 +11,9 @@ main{
     border-radius: 5px;
     margin-top: 10px;
 }
+
+.program-box{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
