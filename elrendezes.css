@@ -9,6 +9,8 @@ main{
     margin: auto;
 }
 
-header{
-
+.program-box{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
 }
