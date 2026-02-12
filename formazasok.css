@@ -44,3 +44,11 @@ ul{
     margin-left: 10px;
     margin-right: 10px;
 }
+
+footer{
+    background-color: lightblue;
+    border-radius: 5px;
+    height: 30px;
+    text-align: center;
+    padding-top: 2px;
+}
