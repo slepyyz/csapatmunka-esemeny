@@ -2,7 +2,7 @@
 
 # Feladatok
 
-- Szuda Tibor: Űrlap elkészítése (urlap.html és urlap.css)
+- Szuda Tibor: Űrlap elkészítése (urlap.html és urlap.css, formazasok.css, elrendezes.css)
 - Szontagh Ágoston: index.html oldal elkészítése (index.html, formazasok.css, elrendezes.css)
 
 # Index.html
